@@ -16,4 +16,10 @@ footer p {
     text-align: center;
     font-size: 0.6rem;
     margin-top: 0.5rem;
-}
+    /* código omitido */
+
+#container {
+    display: flex;
+    .cartao {
+    margin: 1rem 1rem;
+  }
